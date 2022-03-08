@@ -1,0 +1,35 @@
+body{
+    background-color: blue;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif ;
+}
+img{
+    width: 10cm;
+    height: auto;
+}
+#header{
+    display: inline-block;
+    width: 100%;
+    height: auto;
+}
+#container{
+    width: 100%;
+    height: auto;
+}
+a{
+    color: red;
+}
+#oc{
+    margin: auto auto auto 10px;
+    display: inline-block;
+}
+#list{
+    margin: auto auto auto 8%;
+}
+.sidebar{
+    margin: 5px;
+    font-size: 20px;
+}
+.cita{
+    margin: 30px auto 30px 40px;
+}
